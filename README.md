@@ -1,56 +1,56 @@
-# Estructura de Entrenamiento Multifunción
+# Multi-Function Training Structure
 
-## Descripción del Proyecto
+## Project Description
 
-Este proyecto consiste en el diseño y cálculo estructural de una estructura de entrenamiento multifunción para uso doméstico. El objetivo es crear un equipo de entrenamiento versátil y asequible para el hogar.
+This project involves the design and structural calculation of a multi-function training structure for home use. The goal is to create a versatile and affordable training equipment for home use.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **Modelado 3D**: SolidWorks
-- **Análisis FEM**: SolidWorks
-- **Documentación Técnica**: AutoCAD
+- **3D Modeling**: SolidWorks
+- **FEM Analysis**: SolidWorks
+- **Technical Documentation**: AutoCAD
 
-## Contenidos del Repositorio
+## Repository Contents
 
-- `/modelos_cad`: Contiene los archivos CAD en formatos .stl, .step, .iges.
-- `/analisis_fem`: Resultados y scripts de análisis FEM realizados en SolidWorks.
-- `/documentacion`: Planos técnicos y documentación del proyecto en formato PDF.
+- `/cad_models`: Contains CAD files in .stl, .step, .iges formats.
+- `/fem_analysis`: Results and FEM analysis scripts performed in SolidWorks.
+- `/documentation`: Technical drawings and project documentation in PDF format.
 
-## Instalación y Uso
+## Installation and Usage
 
-Para visualizar y modificar los modelos CAD:
+To view and modify the CAD models:
 
-1. Clonar el repositorio: `git clone https://github.com/sergio-moldes/entrenamiento-multifuncion.git`
-2. Abrir los archivos en SolidWorks.
+1. Clone the repository: `git clone https://github.com/sergio-moldes/entrenamiento-multifuncion.git`
+2. Open the files in SolidWorks.
 
-## Contribuciones
+## Contributions
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio que desees realizar.
+Contributions are welcome. Please open an issue or submit a pull request to discuss any changes you wish to make.
 
-## Licencia
+## License
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Documentación del Proyecto
+## Project Documentation
 
-El proyecto se ha documentado exhaustivamente en el siguiente archivo PDF: [Memoria de Estructura de Entrenamiento Multifunción](documentacion/Memoria_entrenamiento_multifuncion.pdf)
+The project has been thoroughly documented in the following PDF file: [Multi-Function Training Structure Documentation](documentation/Memoria_entrenamiento_multifuncion.pdf)
 
-### Resumen de la Memoria
+### Documentation Summary
 
-#### 1. Introducción
+#### 1. Introduction
 
-Se describe el objetivo del proyecto y una visión general del diseño de la estructura de entrenamiento multifunción.
+Describes the project objective and provides an overview of the multi-function training structure design.
 
-#### 2. Cálculos y Diseño
+#### 2. Calculations and Design
 
-Explicación detallada de los cálculos realizados para garantizar la estabilidad y seguridad de la estructura, así como el proceso de diseño en CAD.
+Detailed explanation of the calculations performed to ensure the stability and safety of the structure, as well as the CAD design process.
 
-### Imágenes del Proyecto
+### Project Images
 
-Aquí se incluyen algunas imágenes del diseño final en CAD:
+Here are some images of the final CAD design:
 
-![Estructura Completa](imagenes/estructura_completa.png)
-![Detalle 1](imagenes/detalle_guiado.png)
-![Detalle 2](imagenes/detalle_remo.png)
-![Detalle 3](imagenes/detalle_jcup.png)
-![Detalle 4](imagenes/detalle_quitamiedo.png)
+![Complete Structure](images/estructura_completa.png)
+![Detail 1](images/detalle_guiado.png)
+![Detail 2](images/detalle_remo.png)
+![Detail 3](images/detalle_jcup.png)
+![Detail 4](images/detalle_quitamiedo.png)
