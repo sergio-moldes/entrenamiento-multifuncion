@@ -50,5 +50,7 @@ Explicación detallada de los cálculos realizados para garantizar la estabilida
 Aquí se incluyen algunas imágenes del diseño final en CAD:
 
 ![Estructura Completa](imagenes/estructura_completa.png)
-![Detalle 1](imagenes/detalle1.png)
-![Detalle 2](imagenes/detalle2.png)
+![Detalle 1](imagenes/detalle_guiado.png)
+![Detalle 2](imagenes/detalle_remo.png)
+![Detalle 3](imagenes/detalle_jcup.png)
+![Detalle 4](imagenes/detalle_quitamiedo.png)
