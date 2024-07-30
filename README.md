@@ -49,8 +49,8 @@ Detailed explanation of the calculations performed to ensure the stability and s
 
 Here are some images of the final CAD design:
 
-![Complete Structure](images/estructura_completa.png)
-![Detail 1](images/detalle_guiado.png)
-![Detail 2](images/detalle_remo.png)
-![Detail 3](images/detalle_jcup.png)
-![Detail 4](images/detalle_quitamiedo.png)
+![Complete Structure](images/complete_structure.png)
+![Detail 1](images/guided_structure_detail.png)
+![Detail 2](images/rowing_structure_detail.png)
+![Detail 3](images/jcup_detail.png)
+![Detail 4](images/safety_support_detail.png)
